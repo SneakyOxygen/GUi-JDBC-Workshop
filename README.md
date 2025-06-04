@@ -1,5 +1,5 @@
 # GUi-JDBC-Workshop
-A GUI assignment for OOP
+A GUI assignment for OOP. This is not a program made from scratch, I just modified some GUI and added some lines.
 
 Instruction:
 1.  Open the example-java-gui-crud-master folder
