@@ -2,6 +2,6 @@
 A GUI assignment for OOP
 
 Instruction:
-1.  Open the folder
-2.  Open the same name folder
+1.  Open the example-java-gui-crud-master folder
+2.  Open the example-java-gui-crud-master folder within the folder you just clicked
 3.  Run Main
